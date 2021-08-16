@@ -1,0 +1,4 @@
+qaclickacademy\pages\LandingPage.class
+resources\Base.class
+qaclickacademy\pages\LoginPage.class
+resources\ExtentReportNG.class

@@ -1,0 +1,103 @@
+12:04:22.715 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver is initialized
+12:04:22.730 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Reteriving title text
+12:04:30.913 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - Title text reterived
+12:04:32.623 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Terminating Webdriver
+12:04:34.070 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver terminated
+12:36:27.796 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:36:28.626 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:39:30.051 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:39:30.865 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:45:48.994 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:45:52.805 [main] INFO  qaclickacademy.e2e.LoginTest - WebDriver is initialized
+12:45:52.916 [main] DEBUG qaclickacademy.e2e.LoginTest - Navigating to landing page
+12:45:55.603 [main] INFO  qaclickacademy.e2e.LoginTest - Navigated to landing page
+12:45:55.603 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login link
+12:45:56.605 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login link
+12:45:56.605 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Email field
+12:45:56.803 [main] INFO  qaclickacademy.e2e.LoginTest - Data entered in Email field
+12:45:56.804 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Password field
+12:45:56.965 [main] INFO  qaclickacademy.e2e.LoginTest - Entered data in Password field
+12:45:56.965 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login button
+12:45:57.396 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login button
+12:45:57.412 [main] DEBUG qaclickacademy.e2e.LoginTest - Navigating to landing page
+12:45:59.958 [main] INFO  qaclickacademy.e2e.LoginTest - Navigated to landing page
+12:45:59.959 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login link
+12:46:00.481 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login link
+12:46:00.481 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Email field
+12:46:00.656 [main] INFO  qaclickacademy.e2e.LoginTest - Data entered in Email field
+12:46:00.657 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Password field
+12:46:00.865 [main] INFO  qaclickacademy.e2e.LoginTest - Entered data in Password field
+12:46:00.865 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login button
+12:46:01.179 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login button
+12:46:01.194 [main] DEBUG qaclickacademy.e2e.LoginTest - Terminating Webdriver
+12:46:02.022 [main] INFO  qaclickacademy.e2e.LoginTest - WebDriver terminated
+12:46:02.689 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:46:04.370 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver is initialized
+12:46:04.374 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Reteriving title text
+12:46:07.013 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - Title text reterived
+12:46:08.057 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Terminating Webdriver
+12:46:08.798 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver terminated
+12:48:38.154 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:48:38.927 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:49:42.009 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:49:42.739 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:50:19.536 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:50:22.826 [main] INFO  qaclickacademy.e2e.LoginTest - WebDriver is initialized
+12:50:22.887 [main] DEBUG qaclickacademy.e2e.LoginTest - Navigating to landing page
+12:50:27.004 [main] INFO  qaclickacademy.e2e.LoginTest - Navigated to landing page
+12:50:27.004 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login link
+12:50:27.916 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login link
+12:50:27.917 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Email field
+12:50:28.089 [main] INFO  qaclickacademy.e2e.LoginTest - Data entered in Email field
+12:50:28.089 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Password field
+12:50:28.226 [main] INFO  qaclickacademy.e2e.LoginTest - Entered data in Password field
+12:50:28.226 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login button
+12:50:28.575 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login button
+12:50:28.594 [main] DEBUG qaclickacademy.e2e.LoginTest - Navigating to landing page
+12:50:30.469 [main] INFO  qaclickacademy.e2e.LoginTest - Navigated to landing page
+12:50:30.469 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login link
+12:50:30.958 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login link
+12:50:30.959 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Email field
+12:50:31.259 [main] INFO  qaclickacademy.e2e.LoginTest - Data entered in Email field
+12:50:31.259 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Password field
+12:50:31.523 [main] INFO  qaclickacademy.e2e.LoginTest - Entered data in Password field
+12:50:31.523 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login button
+12:50:31.772 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login button
+12:50:31.777 [main] DEBUG qaclickacademy.e2e.LoginTest - Terminating Webdriver
+12:50:32.550 [main] INFO  qaclickacademy.e2e.LoginTest - WebDriver terminated
+12:50:33.222 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:50:34.921 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver is initialized
+12:50:34.922 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Reteriving title text
+12:50:38.381 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - Title text reterived
+12:50:39.443 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Terminating Webdriver
+12:50:40.199 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver terminated
+12:51:35.753 [main] DEBUG qaclickacademy.e2e.LoginTest - Initializing Webdriver
+12:51:44.386 [main] INFO  qaclickacademy.e2e.LoginTest - WebDriver is initialized
+12:51:44.438 [main] DEBUG qaclickacademy.e2e.LoginTest - Navigating to landing page
+12:51:49.931 [main] INFO  qaclickacademy.e2e.LoginTest - Navigated to landing page
+12:51:49.932 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login link
+12:51:51.124 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login link
+12:51:51.124 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Email field
+12:51:51.219 [main] INFO  qaclickacademy.e2e.LoginTest - Data entered in Email field
+12:51:51.219 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Password field
+12:51:51.270 [main] INFO  qaclickacademy.e2e.LoginTest - Entered data in Password field
+12:51:51.270 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login button
+12:51:51.628 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login button
+12:51:51.643 [main] DEBUG qaclickacademy.e2e.LoginTest - Navigating to landing page
+12:51:53.445 [main] INFO  qaclickacademy.e2e.LoginTest - Navigated to landing page
+12:51:53.445 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login link
+12:51:53.705 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login link
+12:51:53.706 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Email field
+12:51:53.773 [main] INFO  qaclickacademy.e2e.LoginTest - Data entered in Email field
+12:51:53.773 [main] DEBUG qaclickacademy.e2e.LoginTest - Entering data in Password field
+12:51:53.840 [main] INFO  qaclickacademy.e2e.LoginTest - Entered data in Password field
+12:51:53.841 [main] DEBUG qaclickacademy.e2e.LoginTest - Clicking on Login button
+12:51:54.210 [main] INFO  qaclickacademy.e2e.LoginTest - Clicked on Login button
+12:51:54.216 [main] DEBUG qaclickacademy.e2e.LoginTest - Terminating Webdriver
+12:51:55.685 [main] INFO  qaclickacademy.e2e.LoginTest - WebDriver terminated
+12:51:56.312 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Initializing Webdriver
+12:52:02.263 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver is initialized
+12:52:02.265 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Reteriving title text
+12:52:08.808 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - Title text reterived
+12:52:10.747 [main] DEBUG qaclickacademy.e2e.ValidateTitleTest - Terminating Webdriver
+12:52:12.370 [main] INFO  qaclickacademy.e2e.ValidateTitleTest - WebDriver terminated
