@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Base {
@@ -33,7 +34,7 @@ public class Base {
 		 * System.getProperty("browser") method then it looks for the data from maven
 		 * which we can pass while running the test as mvn test -Dbrowser=chrome
 		 */
-		 //String browserName = prop.getProperty("browser");
+		//String browserName = prop.getProperty("browser");
 		String browserName = System.getProperty("browser");
 		if(browserName.equalsIgnoreCase("Chrome")) {
 			System.setProperty("webdriver.chrome.driver", path+"/drivers/chromedriver.exe");
@@ -42,6 +43,12 @@ public class Base {
 		else if(browserName.equalsIgnoreCase("Firefox")) {
 			System.setProperty("webdriver.gecko.driver", path+"/drivers/geckodriver.exe");
 			driver = new FirefoxDriver();
+		}
+		else if(browserName.equalsIgnoreCase("Headless_Chrome")) {
+			System.setProperty("webdriver.chrome.driver", path+"/drivers/chromedriver.exe");
+			ChromeOptions option = new ChromeOptions();
+			option.addArguments("headless");
+			driver = new ChromeDriver(option);
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();

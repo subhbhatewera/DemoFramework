@@ -8,9 +8,9 @@ public class LandingPage {
 	
 	WebDriver driver;	
 	
-	By login = By.xpath("//a //span[text()='Login']");
+	private By login = By.xpath("//a //span[text()='Login']");
 	
-	By heading = By.xpath("//div[@class='text-center']/h2");
+	private By heading = By.xpath("//div[@class='text-center']/h2");
 	
 	public LandingPage(WebDriver driver) {
 		this.driver=driver;

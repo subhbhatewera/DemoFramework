@@ -8,9 +8,9 @@ public class LoginPage {
 	
 	WebDriver driver ;
 	
-	By emailAddress = By.cssSelector("#user_email");
-	By password = By.cssSelector("[type='password']");
-	By login = By.cssSelector("[value='Log In']");
+	private By emailAddress = By.cssSelector("#user_email");
+	private By password = By.cssSelector("[type='password']");
+	private By login = By.cssSelector("[value='Log In']");
 	
 	public LoginPage(WebDriver driver) {
 		this.driver=driver;
